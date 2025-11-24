@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titre": "Introduction à Git",
+    "auteur": "Alice Dupont",
+    "status": "publié",
+    "contenu_apercu": "Apprenez les bases du versionnement avec Git et GitHub."
+  },
+  {
+    "id": 2,
+    "titre": "Optimisation CSS pour mobile",
+    "auteur": "Bob Martin",
+    "status": "brouillon",
+    "contenu_apercu": "Techniques pour améliorer les performances de votre feuille de style sur petits écrans."
+  },
+  {
+    "id": 3,
+    "titre": "Le futur de JavaScript",
+    "auteur": "Charlie Leclerc",
+    "status": "publié",
+    "contenu_apercu": "Un regard sur les nouvelles fonctionnalités ES2024 et au-delà."
+  }
+]
